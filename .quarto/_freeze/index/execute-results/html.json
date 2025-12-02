@@ -1,8 +1,8 @@
 {
-  "hash": "9b497672b5832c4cf968565746074b73",
+  "hash": "40606887ce2861807832390ee15cdb4b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Jeb Bush 2016 For President\"\nabout:\n  template: jolla\n  image: images/dark_biden.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/liumt1573\n---\n\n\n\n\nMy countrymen, the hour has struck, defend your democratic rights!\n\n*Jeb Bush, the Man of the Hour*\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Jeb Bush 2016 For President\"\nabout:\n  template: jolla\n  image: images/dark_biden.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/liumt1573\n---\n\n\n\n\nMy countrymen, the hour has struck, defend your democratic rights!\n\n*Jeb Bush, the Man of the Hour*\n\n>\"Like those who have fallen before, whereas they marched across the ends of the world in their glorious, abortive campaign, I likewise ought to have gone from the dark nights of spiritual slavery to unknown wandering in search of hope.\"\n\n## Jeb Bush, a Record of Success\n\nTripled the Texan GDP | 2010-2014\n\nMade 2 Billion Dollars via Insider Trade | 2015\n\nSigned Historic Trade Deal with Soros | 2014\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

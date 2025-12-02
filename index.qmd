@@ -13,6 +13,17 @@ My countrymen, the hour has struck, defend your democratic rights!
 
 *Jeb Bush, the Man of the Hour*
 
+>"Like those who have fallen before, whereas they marched across the ends of the world in their glorious, abortive campaign, I likewise ought to have gone from the dark nights of spiritual slavery to unknown wandering in search of hope."
+
+## Jeb Bush, a Record of Success
+
+Tripled the Texan GDP | 2010-2014
+
+Made 2 Billion Dollars via Insider Trade | 2015
+
+Signed Historic Trade Deal with Soros | 2014
+
+
 ```{r}
 1 + 1
 ```
