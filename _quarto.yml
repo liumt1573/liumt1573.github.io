@@ -4,10 +4,26 @@ project:
 
 website:
   title: "Jeb Bush 2016"
+  favicon: <images/xi_jp_she_her.jpg>
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
+      - issues.qmd
+      - sidebar:projects
+      
+      
+  sidebar:
+    - id: projects
+      title: "Nation Building Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - projects/proj1.qmd
+        - projects/proj2.qmd
 
 format:
   html:
