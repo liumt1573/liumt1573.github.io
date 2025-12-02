@@ -1,5 +1,5 @@
 ---
-title: "liumt1573.github.io"
+title: "Wahl Clinton 2016 Fur Bundkanzler"
 about:
   template: jolla
   image: images/dark_biden.png
@@ -9,7 +9,7 @@ about:
       href: https://github.com/liumt1573
 ---
 
-This is a Quarto website.
+Deutschland, die stunde hat geschlagen, verteidige deine Demokratischen Rechte!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
