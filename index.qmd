@@ -1,17 +1,17 @@
 ---
-title: "Wahl Clinton 2016 Fur Bundkanzler"
+title: "Jeb Bush 2016 For President"
 about:
   template: jolla
-  image: images/dark_biden.png
+  image: images/dark_biden.jpg
   links:
     - icon: github
       text: Github
       href: https://github.com/liumt1573
 ---
 
-Deutschland, die stunde hat geschlagen, verteidige deine Demokratischen Rechte!
+My countrymen, the hour has struck, defend your democratic rights!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*Jeb Bush, the Man of the Hour*
 
 ```{r}
 1 + 1
